@@ -1,0 +1,32 @@
+html, body {
+  margin: 0px;
+}
+footer {
+  width: 100%;
+  height: 120px;
+}
+header {
+  width: 100%;
+}
+.imageHeader{
+  width: 100%;
+}
+.container {
+  padding: 15px;
+ border: 2px solid black;
+ border-radius: 6px;
+ line-height: 40px;
+ text-align: center;
+}
+a.container.list-group-item:hover{
+  background-color: rgb(95,159,182);
+}
+p {
+  text-align: justify;
+}
+h1, h3{
+    text-align:center;
+    font-family:georgia,garamond,serif;
+    font-size:40px;
+    font-style:italic;
+}
